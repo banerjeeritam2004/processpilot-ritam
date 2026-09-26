@@ -96,8 +96,7 @@ sudo apt install build-essential cmake git
 Clone the repository:
 
 ```bash
-git clone https://github.com/mastersajalgupta/processpilot.git
-cd processpilot
+git clone https://github.com/banerjeeritam2004/processpilot-ritam.git
 ```
 
 Create the build directory:
